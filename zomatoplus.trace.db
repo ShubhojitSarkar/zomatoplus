@@ -1,0 +1,9 @@
+06-27 15:25:07 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DROP TBL_ITEMS[*] "; expected "TABLE, INDEX, USER, SEQUENCE, CONSTANT, TRIGGER, VIEW, ROLE, ALIAS, SCHEMA, ALL, DOMAIN, TYPE, DATATYPE, AGGREGATE"; SQL statement:
+drop TBL_ITEMS [42001-156]
+06-27 15:25:14 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DROP TBL_ITEMS[*] "; expected "TABLE, INDEX, USER, SEQUENCE, CONSTANT, TRIGGER, VIEW, ROLE, ALIAS, SCHEMA, ALL, DOMAIN, TYPE, DATATYPE, AGGREGATE"; SQL statement:
+drop TBL_ITEMS [42001-156]
+06-27 15:25:29 jdbc[12]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DROP TBL_USER[*] "; expected "TABLE, INDEX, USER, SEQUENCE, CONSTANT, TRIGGER, VIEW, ROLE, ALIAS, SCHEMA, ALL, DOMAIN, TYPE, DATATYPE, AGGREGATE"; SQL statement:
+drop TBL_USER [42001-156]
